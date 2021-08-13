@@ -51,7 +51,7 @@ train_y=to_categorical(train_y,labels)
 print(train_X.shape)
 print(train_y.shape)
             
-"""Declare a Larger network using pre-trained model, vgg16 with the full connected layers removed"""
+"""Declare a deep large network using pre-trained model, vgg16 with the fully connected layers removed"""
 vgg16=VGG16(weights="imagenet", include_top=False, input_shape=(224,224,3))
 # features=vgg16.predict(img)
 
