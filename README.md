@@ -2,3 +2,7 @@
 
 dataset reference link:
 https://www.kaggle.com/alessiocorrado99/animals10
+<h3>Reference paper</h3>
+<ul> 
+  <li>K. Simonyan, A. Zisserman, Very Deep Convolutional Networks for Large-Scale Image Recognition, ICLR, 2015</li>
+</ul>
